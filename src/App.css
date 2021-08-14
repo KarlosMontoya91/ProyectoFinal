@@ -1,0 +1,45 @@
+html {
+  background-color: rgb(203, 203, 255);
+}
+
+p {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  color:black;
+  margin: 10px;
+  text-align: left;
+}
+
+a {
+  margin: 20px;
+  text-decoration: none;
+  color: black;
+  background-color: white;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+a:hover{
+  color: white;
+  background-color: black;
+}
+
+h2 {
+  background-color: white;
+  padding: 10px;
+  width: fit-content;
+  border-radius: 10px;
+}
+
+h1 {
+  background-color: white;
+  padding: 10px;
+  width: fit-content;
+  border-radius: 10px;
+}
+
+.InputBox {
+display: flex;
+align-items: center;
+}
